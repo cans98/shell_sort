@@ -1,0 +1,7 @@
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\bin\Debug\siralama_algoritmasi.exe.config
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\bin\Debug\siralama_algoritmasi.exe
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\bin\Debug\siralama_algoritmasi.pdb
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\obj\Debug\siralama_algoritmasi.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\obj\Debug\siralama_algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\obj\Debug\siralama_algoritmasi.exe
+C:\Users\alibs\source\repos\siralama_algoritmasi\siralama_algoritmasi\obj\Debug\siralama_algoritmasi.pdb
